@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://lukelowrey.com/rss/
+          feed-url: https://deepak0405.github.io/coding-tapri/feed.xml
           readme-section: feed
           max: 10 # max number of items (default 5)
           template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
