@@ -32,7 +32,7 @@
 
 <h3 align="left">Competitive Programming:</h3>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/patankardeepak04?theme=light&font=Karma&ext=contest" />
 </p>
 
 -----
