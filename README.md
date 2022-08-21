@@ -39,6 +39,26 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+#### [14 .NET packages I always recommend](https:&#x2F;&#x2F;lukelowrey.com&#x2F;recommended-dotnet-libraries&#x2F;) 
+*Save time and make your applications better. Check out this list of open source .NET libraries I love to use and recommend.*
+#### [GhostSolo update (0.5.0) - February 2021](https:&#x2F;&#x2F;lukelowrey.com&#x2F;ghostsolo-update-february-2021&#x2F;) 
+*Membership updates, table of contents support and bug fixes for my Ghost theme &quot;GhostSolo&quot;*
+#### [A complete guide to send email in .NET (2021)](https:&#x2F;&#x2F;lukelowrey.com&#x2F;dotnet-email-guide-2021&#x2F;) 
+*Use FluentEmail to send emails in .NET. Send with Smtp, Mailgun or SendGrid and use customisable Razor or Liquid templates for your content.*
+#### [GitHub Action - Build and Run .NET Tests on new pull requests](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-dotnet-pr-validation&#x2F;) 
+*Validate your dotnet code by building and running tests on every pull request.*
+#### [GitHub action to automatically add blog posts to your profile](https:&#x2F;&#x2F;lukelowrey.com&#x2F;github-action-to-add-blog-posts-to-your-profile&#x2F;) 
+*Add blog posts to your GitHub profile automatically in 5 minutes via RSS and GitHub Actions.*
+#### [Introducing GhostSolo - a free and open source Ghost Theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;ghostsolo-a-free-and-open-source-ghost-theme&#x2F;) 
+*GhostSolo is a free and open source Ghost theme created for solo bloggers.*
+#### [The simplest CSS variable dark mode theme](https:&#x2F;&#x2F;lukelowrey.com&#x2F;css-variable-theme-switcher&#x2F;) 
+*Use CSS variables and simple javascript to enable dark mode and themes on your website.*
+#### [Use GitHub actions to publish NuGet packages](https:&#x2F;&#x2F;lukelowrey.com&#x2F;use-github-actions-to-publish-nuget-packages&#x2F;) 
+*How to automate creating and pushing nuget packages from GitHub to nuget.org and other sources.*
+#### [Presentation tips for a better product demo](https:&#x2F;&#x2F;lukelowrey.com&#x2F;product-demo-presentation-tips&#x2F;) 
+*Software demos can be stressful and overwhelming. Use these tips to deliver a confident and professional demo.*
+#### [How to prepare the perfect product demo](https:&#x2F;&#x2F;lukelowrey.com&#x2F;product-demo-checklist&#x2F;) 
+*Improve the quality of your next product demo using this preparation checklist as a guide. No matter how well you know the software, you need a plan.*
 <!--END_SECTION:feed-->
 
 -----
