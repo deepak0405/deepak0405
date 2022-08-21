@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
+<p align="left">
+  <a href="https://leetcode.com/patankardeepak04/">
+    <img src="https://cp-logo.vercel.app/leetcode/patankardeepak04" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/7003331/deepak-patankar">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7003331?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/deepak0405?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/deepak0405?color=green&logo=github">
+  </a>
+  <a href="https://github.com/deepak0405/">
+    <img src="https://komarev.com/ghpvc/?username=deepak0405" alt="visitors" />
+  </a>
+
+</p>
+
+
 - 🔭 I’m currently handling the **Git Experience at Harness**
 
 - 📝 I regularly write articles on [https://deepak0405.github.io/coding-tapri/](https://deepak0405.github.io/coding-tapri/)
