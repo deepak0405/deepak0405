@@ -33,7 +33,6 @@
 <h3 align="left">Competitive Programming:</h3>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 
 -----
