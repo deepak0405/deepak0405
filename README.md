@@ -37,7 +37,13 @@
 
 -----
 
-<h3 align="left">Connect with me:</h3>
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+-----
+
+### Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/deepak-patankar-797622148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-patankar-797622148" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7003331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7003331" height="30" width="40" /></a>
@@ -45,3 +51,5 @@
 </p>
 
 -----
+
+
